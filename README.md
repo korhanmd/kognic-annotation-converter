@@ -1,5 +1,5 @@
 # Kognic Annotation Converter
-Annotation converter project for Kognic coding test. The package reads a json file in Kognic annotation format and gives response in Open Label annotation format.
+Annotation converter project for Kognic coding test. The package reads a json file in Kognic annotation format and gives response in Open Label annotation format. This project requires Python 3.8 or newer version.
 
 ## Building
 
