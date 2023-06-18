@@ -1,1 +1,2 @@
 setuptools
+flask>=2.3.2

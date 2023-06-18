@@ -7,7 +7,5 @@ setup(
     author_email='korhanmd@gmail.com',
     description='Annotation converter from Kognic format to Open Label format',
     packages=find_packages(),
-    install_requires=[
-        "flask"
-    ],
+    install_requires=[],
 )
