@@ -17,4 +17,4 @@ jobs:
         pip install pytest
     - name: Test the code with pytest
       run: |
-        pytest test
+        python3 -m pytest
