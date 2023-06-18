@@ -9,6 +9,11 @@ First write below command to the terminal to clone and navigate into the resposi
 git clone https://github.com/korhanmd/kognic-annotation-converter
 cd kognic-annotation-converter
 ```
+Then write:
+
+```
+pip install -r requirements.txt
+```
 
 Use below command to build the package.
 
